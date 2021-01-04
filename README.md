@@ -29,7 +29,7 @@ You need the below set of tools and Databases to run the Project
 ![](Images/Talend2.PNG)  
 
 ### Master Job
-![](Images/Talend2.PNG)  
+![](Images/Talend3.PNG)  
 
 ## Sample PoweBI Visualizations
 
