@@ -24,5 +24,15 @@ You need the below set of tools and Databases to run the Project
 
 ## Sample Talend Jobs
 
+![](Images/Talend1.PNG)  
+
+![](Images/Talend2.PNG)  
+
+### Master Job
+![](Images/Talend2.PNG)  
 
 ## Sample PoweBI Visualizations
+
+![](Images/powerbi1.PNG) 
+
+![](Images/powerbi2.PNG) 
