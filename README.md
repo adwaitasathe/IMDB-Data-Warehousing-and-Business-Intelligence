@@ -7,8 +7,19 @@ You need the below set of tools and Databases to run the Project
 2 - Mircrosoft SQL Server  
 3 - Microsoft SQL server Management Studio  
 4 - Mirosoft PowerBI  
-5 - Tableau  
+5 - Tableau 
+
+### Using the Project
+
+1 -  Run the DDL "DDL for IMDb Project Dimensional Model.sql" present in SQL folder in Microsoft SQL Server 
+2 - In Talend, make the input connections necessary  
+3 - Run the Final Job in Talend
+
+
+
+## Sample Talend Jobs
 
 
 
 
+## Sample PoweBI Visualizations
