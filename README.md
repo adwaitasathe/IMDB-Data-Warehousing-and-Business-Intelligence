@@ -17,9 +17,10 @@ You need the below set of tools and Databases to run the Project
 
 
 
-## Sample Talend Jobs
+## Sample Talend Jobs and ER Model
 
 
+![](SQL/Final_Project_ER.png
 
 
 ## Sample PoweBI Visualizations
