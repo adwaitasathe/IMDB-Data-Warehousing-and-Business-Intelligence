@@ -11,7 +11,7 @@ You need the below set of tools and Databases to run the Project
 
 ### Using the Project
 
-1 -  Run the DDL "DDL for IMDb Project Dimensional Model.sql" present in SQL folder in Microsoft SQL Server 
+1 -  Run the DDL "DDL for IMDb Project Dimensional Model.sql" present in SQL folder in Microsoft SQL Server   
 2 - In Talend, make the input connections necessary  
 3 - Run the Final Job in Talend
 
