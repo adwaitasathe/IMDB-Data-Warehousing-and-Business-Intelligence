@@ -35,4 +35,4 @@ You need the below set of tools and Databases to run the Project
 
 ![](Images/powerbi1.PNG) 
 
-![](Images/powerbi2.PNG) 
+![](Images/powerbi3.PNG) 
